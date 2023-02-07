@@ -1,4 +1,4 @@
-package Corejava;
+package day1;
 
 public class FirstJavaPrograms {
 	
